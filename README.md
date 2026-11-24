@@ -110,4 +110,5 @@ Repository ini berisi project REST API berbasis **Node.js**, **Express**, **Sequ
 
 ### 7. Delete Komik (`DELETE /api/komik/:id`)
 
-![Delete Komik](screenshots/delete-komik.png)
+<img width="1741" height="658" alt="image" src="https://github.com/user-attachments/assets/311a18a2-1db8-4414-a42f-bf46f86c4716" />
+
