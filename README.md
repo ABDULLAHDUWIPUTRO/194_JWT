@@ -65,48 +65,47 @@ Repository ini berisi project REST API berbasis **Node.js**, **Express**, **Sequ
 
 ### 1. Register (`POST /api/register`)
 
-![Register](<img width="1747" height="730" alt="image" src="https://github.com/user-attachments/assets/d1763b7d-2b68-46e6-a32c-521b10344812" />
-)
+<img width="1747" height="730" alt="image" src="https://github.com/user-attachments/assets/d1763b7d-2b68-46e6-a32c-521b10344812" />
 
 ---
 
 ### 2. Login (`POST /api/login`)
 
-![Login](<img width="1737" height="681" alt="image" src="https://github.com/user-attachments/assets/4946b564-c673-49b4-afba-3f571761e9ee" />
-)
+<img width="1737" height="681" alt="image" src="https://github.com/user-attachments/assets/4946b564-c673-49b4-afba-3f571761e9ee" />
+
 
 ---
 
 ### 3. Create Komik (`POST /api/komik`)
 
-![Create Komik](<img width="1733" height="731" alt="image" src="https://github.com/user-attachments/assets/b1e175e8-6da1-4031-8f1e-a874d4a80e44" />
-)
+<img width="1733" height="731" alt="image" src="https://github.com/user-attachments/assets/b1e175e8-6da1-4031-8f1e-a874d4a80e44" />
+
 
 ---
 
 ### 4. Get All Komik (`GET /api/komik`)
 
-![Get All Komik](<img width="1738" height="771" alt="image" src="https://github.com/user-attachments/assets/b044d429-6230-4401-a398-93b3d4fb2f9e" />
-)
+<img width="1738" height="771" alt="image" src="https://github.com/user-attachments/assets/b044d429-6230-4401-a398-93b3d4fb2f9e" />
+
 
 ---
 
 ### 5. Get Komik by ID (`GET /api/komik/:id`)
 
-![Get Komik By ID](<img width="1742" height="666" alt="image" src="https://github.com/user-attachments/assets/ac901fc3-dd29-43ff-ac4b-7bfb600b8cce" />
-)
+<img width="1742" height="666" alt="image" src="https://github.com/user-attachments/assets/ac901fc3-dd29-43ff-ac4b-7bfb600b8cce" />
+
 
 ---
 
 ### 6. Update Komik (`PUT /api/komik/:id`)
 
-![Update Komik](<img width="1738" height="730" alt="image" src="https://github.com/user-attachments/assets/0da4dd11-799b-4ddf-a384-f0fb1b862c4b" />
-)
+<img width="1738" height="730" alt="image" src="https://github.com/user-attachments/assets/0da4dd11-799b-4ddf-a384-f0fb1b862c4b" />
+
 
 ---
 
 ### 6. Delete Komik (`DELETE /api/komik/:id`)
-![Delete Komik](<img width="1740" height="641" alt="image" src="https://github.com/user-attachments/assets/8e7196c6-8c79-4619-93fd-eb1eadf91840" />)
+<img width="1740" height="641" alt="image" src="https://github.com/user-attachments/assets/8e7196c6-8c79-4619-93fd-eb1eadf91840" />
 
 
 ### 7. Delete Komik (`DELETE /api/komik/:id`)
